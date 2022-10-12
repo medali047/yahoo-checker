@@ -18,7 +18,7 @@ internal class Class5
 		Colorful.Console.WriteLineFormatted("                                   +#++: +#++:++#++: +#++:++#++ +#+    +:+ +#+    +:+   ", ColorTranslator.FromHtml(Class5.string_3), ColorTranslator.FromHtml(Class5.string_2), Array.Empty<object>());
 		Colorful.Console.WriteLineFormatted("                                   +#+  +#+     +#+ +#+    +#+ +#+    +#+ +#+    +#+    ", ColorTranslator.FromHtml(Class5.string_3), ColorTranslator.FromHtml(Class5.string_2), Array.Empty<object>());
 		Colorful.Console.WriteLineFormatted("                                  #+#  #+#     #+# #+#    #+# #+#    #+# #+#    #+#     ", ColorTranslator.FromHtml(Class5.string_3), ColorTranslator.FromHtml(Class5.string_2), Array.Empty<object>());
-		Colorful.Console.WriteLineFormatted("                                 ###  ###     ### ###    ###  cracked by calina-dev ########   ########", ColorTranslator.FromHtml(Class5.string_3), ColorTranslator.FromHtml(Class5.string_2), new object[]
+		Colorful.Console.WriteLineFormatted("                                 ###  ###     ### ###    ###  cracked by ReverseTn ########   ########", ColorTranslator.FromHtml(Class5.string_3), ColorTranslator.FromHtml(Class5.string_2), new object[]
 		{
 			"v1.0.0"
 		});
