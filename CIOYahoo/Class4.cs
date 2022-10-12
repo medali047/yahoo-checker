@@ -65,7 +65,7 @@ internal class Class4
 		Class5.smethod_1("Choose a option.", ColorTranslator.FromHtml(Class5.string_2), 25);
 		Colorful.Console.WriteLine();
 		Colorful.Console.WriteLine();
-		Colorful.Console.Write(" Welcome to CIOYahoo Made by SexyAzure. cracked by calina dev", ColorTranslator.FromHtml(Class5.string_3));
+		Colorful.Console.Write(" Welcome to CIOYahoo Made by SexyAzure. cracked by ReverseTn", ColorTranslator.FromHtml(Class5.string_3));
 		Colorful.Console.WriteLine();
 		Colorful.Console.Write(" Join the discord... ************", ColorTranslator.FromHtml(Class5.string_3));
 		Colorful.Console.WriteLine();
